@@ -1,1 +1,1 @@
-https://ashraf-the-developer.github.io/Restaurant-Site-Project-01-/
+stellar-kashata-723563.netlify.app
